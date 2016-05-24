@@ -36,8 +36,9 @@
 //
 //
 // This algorithm is O(log n) because, given an array of length n, it will take 
-// no more than log(2) n operations to complete. Revisiting the above example, 
-// log(2) 8 = 3. Thus it will take no more than three passes to find the desired location.
+// no more than log(n) operations to complete. Revisiting the above example, 
+// log(8) = 3 (with base 2.) Thus it will take no more than three passes to find the 
+// desired location.
 //
 function binarySearch(arr, target){
     var minIndex = 0;
