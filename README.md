@@ -1,7 +1,7 @@
 # toy-problems-explained
 ####Problems exploring some of the basics of computer science, explained.
 
-###Included problems
+###Included problems ---
 
 #####Binary Search
 #####Binary to Decimal
